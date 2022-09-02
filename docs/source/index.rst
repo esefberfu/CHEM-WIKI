@@ -1,7 +1,7 @@
 Welcome to CHEM documentation!
 ===================================
 
-**CHEM** is a wireless channel emulator for wireless applications that use UHD(USRP) as hardware.
+**CHEM** is a wireless channel emulator for wireless applications that use UHD(USRP).
 
 
 Check out the :doc:`usage` section for further information, including
